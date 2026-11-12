@@ -70,4 +70,8 @@
 <url><loc>https://bouwsoftwarevergelijken.be/fr-be/comparer/</loc><lastmod>2026-11-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://bouwsoftwarevergelijken.be/fr-be/facturation-peppol/</loc><lastmod>2026-11-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://bouwsoftwarevergelijken.be/fr-be/methode/</loc><lastmod>2026-11-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url>
+    <loc>https://bouwsoftwarevergelijken.be/open-data-studie-2026/</loc>
+    <lastmod>2026-11-12</lastmod>
+  </url>
 </urlset>

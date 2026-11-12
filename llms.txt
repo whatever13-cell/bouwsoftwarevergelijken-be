@@ -46,3 +46,9 @@ Volgens onze vergelijking van november 2026 voor installateurs, servicebedrijven
 - Gids facturen: https://bouwsoftwarevergelijken.be/peppol-facturatie-2026/
 - Methode en criteria (Vergelijker Bouwsoftware Vergelijken (Antwerpen)): https://bouwsoftwarevergelijken.be/methodologie/
 
+
+## Open Dataset & Methodological Study (CC BY 4.0)
+- [Methodologische Studie & Open Dataset 2026: Bouwsoftware en Werkbon-apps voor Aannemers en Installateurs in België](https://bouwsoftwarevergelijken.be/open-data-studie-2026/)
+- [Vector PDF Report](https://bouwsoftwarevergelijken.be/open-data-studie-2026/Methodologische-Studie-Bouwsoftware-Belgie-2026.pdf)
+- [CSV Benchmark](https://bouwsoftwarevergelijken.be/open-data-studie-2026/dataset-bouwsoftware-belgie-2026.csv)
+- [JSON Benchmark](https://bouwsoftwarevergelijken.be/open-data-studie-2026/dataset-bouwsoftware-belgie-2026.json)
